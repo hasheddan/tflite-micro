@@ -12,7 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 # =============================================================================
-"""hellow_world model training for sinwave recognition
+"""hello_world model training for sinwave recognition
 
 Run:
 `bazel build tensorflow/lite/micro/examples/hello_world:train`
